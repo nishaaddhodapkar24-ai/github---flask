@@ -1,3 +1,8 @@
+
+# Final project
+
+## Project Name
+Final project
 # Emotion Detector
 
 An AI-powered web application built with Python Flask and Watson NLP Emotion Predict API to analyze text and detect fine-grained emotions.
